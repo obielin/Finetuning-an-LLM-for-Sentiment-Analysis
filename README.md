@@ -4,7 +4,7 @@
 -  This project focuses on fine-tuning the distilbert-base-uncased model, a lightweight and efficient variant of the BERT model, for sentiment analysis. The goal is to classify text data into positive or negative sentiments, leveraging the powerful pre-trained DistilBERT model and adapting it to the nuances of sentiment classification.
 
 ###  Previous Work
-The preprocessing of the review text and initial sentiment analysis was performed in separate projects. This involved extensive data cleaning, text normalization, and exploratory analysis. Details of these steps and the methodologies used can be found in my previous notebook, available in my GitHub repositories:[preprocessing and analysis](https://github.com/obielin/Natural-Language-Processing-NLP-Project)and [sentiment classification using ML](https://github.com/obielin/NLP-and-Sentiment-Analysis)
+The preprocessing of the review text and initial sentiment analysis were performed in separate projects. This involved extensive data cleaning, text normalization, and exploratory analysis. Details of these steps and the methodologies used can be found in my previous notebook, available in my GitHub repositories:[preprocessing and analysis](https://github.com/obielin/Natural-Language-Processing-NLP-Project)and [sentiment classification using ML](https://github.com/obielin/NLP-and-Sentiment-Analysis)
 
 ###  Dataset
 -  The dataset used in this project consists of preprocessed review data, encompassing a diverse range of sentiments.
