@@ -1,4 +1,6 @@
 # Finetuning-an-LLM-for-Sentiment-Analysis
+Fine-tunes distilbert-base-uncased on preprocessed review data for binary sentiment classification. Built with Hugging Face Transformers, covering end-to-end training, hyperparameter tuning, and inference on unseen data — part of a wider NLP pipeline spanning preprocessing, classical ML baselines, and transformer fine-tuning.
+
 ## Sentiment Analysis with Fine-Tuned DistilBERT
 ###  Project Overview
 -  This project focuses on fine-tuning the distilbert-base-uncased model, a lightweight and efficient variant of the BERT model, for sentiment analysis. The goal is to classify text data into positive or negative sentiments, leveraging the powerful pre-trained DistilBERT model and adapting it to the nuances of sentiment classification.
